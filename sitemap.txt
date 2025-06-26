@@ -1,8 +1,8 @@
-http://example.com/2025/06/24/%E4%BD%A0%E5%A5%BD%EF%BC%8C%E4%B8%96%E7%95%8C/
-http://example.com/about/index.html
-http://example.com/resume/index.html
-http://example.com/projects/index.html
-http://example.com/2025/06/24/hello-world/
-http://example.com/
-http://example.com/tags/%E6%97%A5%E5%B8%B8/
-http://example.com/categories/%E9%9A%8F%E7%AC%94/
+https://lgnlh.github.io/hexo-pages/2025/06/24/%E4%BD%A0%E5%A5%BD%EF%BC%8C%E4%B8%96%E7%95%8C/
+https://lgnlh.github.io/hexo-pages/about/index.html
+https://lgnlh.github.io/hexo-pages/resume/index.html
+https://lgnlh.github.io/hexo-pages/projects/index.html
+https://lgnlh.github.io/hexo-pages/2025/06/24/hello-world/
+https://lgnlh.github.io/hexo-pages
+https://lgnlh.github.io/hexo-pages/tags/%E6%97%A5%E5%B8%B8/
+https://lgnlh.github.io/hexo-pages/categories/%E9%9A%8F%E7%AC%94/
