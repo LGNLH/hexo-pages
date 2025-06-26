@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2025-06-24T08:38:42.093Z</updated>
+  <updated>2025-06-26T14:37:56.344Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,19 +17,20 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
+    <title>这是我的第一篇文章</title>
     <link href="http://example.com/2025/06/24/%E4%BD%A0%E5%A5%BD%EF%BC%8C%E4%B8%96%E7%95%8C/"/>
     <id>http://example.com/2025/06/24/%E4%BD%A0%E5%A5%BD%EF%BC%8C%E4%B8%96%E7%95%8C/</id>
     <published>2025-06-24T07:00:00.000Z</published>
-    <updated>2025-06-24T08:38:42.093Z</updated>
+    <updated>2025-06-26T14:37:56.344Z</updated>
     
-    <content type="html"><![CDATA[<p>这是我的第一篇文章，Hello Hexo + Butterfly！</p>]]></content>
+    <content type="html"><![CDATA[<h1>这是我的第一篇文章，Hello Hexo + Butterfly！</h1><h2 id="Markdown"><a href="#Markdown" class="headerlink" title="Markdown"></a>Markdown</h2><blockquote><p>Markdown 是一种轻量级的标记语言，可用于在纯文本文档中添加格式化元素。Markdown 由 John Gruber 于 2004 年创建，如今已成为世界上最受欢迎的标记语言之一。<br><em>也就是md文件</em></p></blockquote><h2 id="为什么使用Markdown？"><a href="#为什么使用Markdown？" class="headerlink" title="为什么使用Markdown？"></a>为什么使用Markdown？</h2><ul><li>很多开源项目的 README、开发文档、帮助文档、Wiki 等都用 Markdown 写作。</li><li>Markdown 是纯文本可移植的</li><li>Markdown 是独立于平台的</li><li>Markdown 能适应未来的变化</li></ul><blockquote><p><strong>Markdown 是为 web 而设计的</strong>，因此，市面上有很多专门用于创建网站内容的应用程序就不足为奇了</p></blockquote><h2 id="学习Markdown"><a href="#学习Markdown" class="headerlink" title="学习Markdown"></a>学习Markdown</h2><ul><li><a href="https://markdown.com.cn/">Markdown教程</a>  </li><li><a href="https://markdown.com.cn/cheat-sheet.html">速查表</a></li></ul><h3 id="代码块"><a href="#代码块" class="headerlink" title="代码块"></a>代码块</h3><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">print(<span class="string">&quot;Hello,World!&quot;</span>);</span><br></pre></td></tr></table></figure>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;这是我的第一篇文章，Hello Hexo + Butterfly！&lt;/p&gt;
-</summary>
+    <summary type="html">&lt;h1&gt;这是我的第一篇文章，Hello Hexo + Butterfly！&lt;/h1&gt;
+
+&lt;h2 id=&quot;Markdown&quot;&gt;&lt;a href=&quot;#Markdown&quot; class=&quot;headerlink&quot; title=&quot;Markdown&quot;&gt;&lt;/a&gt;Markdown&lt;/h2&gt;&lt;bloc</summary>
       
     
     
